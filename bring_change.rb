@@ -1,4 +1,4 @@
-require 'pry'
+#require 'pry'
 require 'minitest/autorun'
 class Register
 	def initialize 
