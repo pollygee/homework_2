@@ -66,4 +66,3 @@ class TestforChange < MiniTest::Test
 		assert_equal [0,0,0,0], r.change(0.00)
 	end
 end
-
